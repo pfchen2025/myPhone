@@ -14,3 +14,7 @@ int main_Staff_Add1(int a, int b) {
 }
 
 //For testing release
+
+int main_Staff_TestStash(int a, int b) {
+    return a + b;
+}
